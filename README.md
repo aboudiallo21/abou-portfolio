@@ -1,4 +1,4 @@
-# Data Scientist
+# Statistician-economist | Data Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
