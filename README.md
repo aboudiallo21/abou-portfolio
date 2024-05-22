@@ -42,11 +42,25 @@
 
 **Sujet:** modélisation des aggrégats de la masse monétaire
 
-- Direction de la mise en œuvre du recensement pilote 5 dans la zone de Maghama, région du Gorgol
-- Participation significative à l’analyse exploratoire du projet.
-- Direction et coordination d’une équipe de 21 enquêteurs.
-- Responsabilité de l’envoi régulier des données toutes les 48 heures après la collecte.
+- Nottoyage de la base de données.
+- Data visualization.
+- Test paramètrique.
+- Prévision des agrégats de la masse monétaire.
+- Traitement et analyse sur Python.
 
+
+**Statisticien-économiste (stage)  @ Agence nationale de la statistique et de l’analyse démographique et économique  (_Mai 2021 - Juil 2021 _)**
+
+**Sujet:**  Déterminants de la pauvreté, Contribution de l’emploi
+
+- Élaboration d’un seuil de pauvreté.
+- Calcul des indices: gini et atkinson.
+- Test paramètrique.
+- Prévision de l’incidence et de l’extrême Pauvreté en Mauritanie;
+- Traitement et analyse sur Python.
+- Logiciels utilisés : Stata, Excel.
+
+## Projets
 
 
 
