@@ -76,7 +76,7 @@ Le projet consiste à créer une application Django capable de calculer les indi
 ### Centralisation et Analyse des Ventes de Boissons avec Talend et Power BI
 Le projet consiste à mettre en place un datawarehouse pour centraliser les données provenant de trois sources différentes concernant la vente de boissons. En utilisant Talend pour les processus d'extraction, transformation et chargement (ETL), les données sont consolidées dans un seul entrepôt de données. Ces données sont ensuite importées dans Power BI, où un tableau de bord interactif est créé pour faciliter la prise de décision stratégique.
 
-**photos**
+![EEG Band Discovery](/assets/img/mm.jpeg)
 
 
 ### Gestion de Ventes de CDs Musicaux avec Mérise
