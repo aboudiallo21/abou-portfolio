@@ -39,7 +39,9 @@
 
 
 **Data scientist (stage) @ Banque Centrale de Mauritanie (_Aout 2023 - Sep 2023 _)**
+
 **Sujet:** modélisation des aggrégats de la masse monétaire
+
 - Direction de la mise en œuvre du recensement pilote 5 dans la zone de Maghama, région du Gorgol
 - Participation significative à l’analyse exploratoire du projet.
 - Direction et coordination d’une équipe de 21 enquêteurs.
