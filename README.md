@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Diplome d'ingénieur, Statistique | École Supérieure Polytechnique (_Sep 2022 - Present_)								       		
-- Licence, Statistique	|  Institut Supérieur des Métiers de la Statistique (_Jul 2022_)	 			        		
+- Diplome d'ingénieur | École Supérieure Polytechnique (_Sep 2022 - Present_)								       		
+- Licence en statistique	|  Institut Supérieur des Métiers de la Statistique (_Jul 2022_)	 			        		
 - Baccalauréat,  Mathématique |  Lycée ZemZem  (_Jul 2019_)
 - Brevet d’Études du Premier Cycle |   École El Hamd (_Juin 2016_)
 
