@@ -3,15 +3,19 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- Diplome d'ingénieur, Statistique et ingénierie de données | École Supérieure Polytechnique à Nouakchott (_Sep 2022 - Present_)								       		
+- Licence, Science et technologie mention Statistique	|  Institut Supérieur des Métiers de la Statistique à Nouakchott (_Jul 2022_)	 			        		
+- Baccalauréat,  Mathématique |  Lycée ZemZem à Nouakchott (_Jul 2019_)
+- Brevet d’Études du Premier Cycle |   École El Hamd à Aleg (_Juin 2016_)
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Chef du service informatique @ Réseau des génies en potagers scolaire (Unicef ) (_Mars 2023 - Present_)**
+-  Gestion de projet : Superviser le développement du site internet de réseau des génies en potagers en assurant le respect des délais, des objectifs et des ressources allouées.
+- Analyse des besoins : Collaborer avec les parties prenantes internes pour comprendre leurs exigences en matière de fonctionnalités et de conception du site.
+- Gestion de contenu : Assurer la création, la mise à jour et la gestion des contenus sur le site internet, y compris le texte, les images, les vidéos, etc..
+- Effectuer des tests approfondis pour détecter et résoudre les erreurs, les bogues et les problèmes de compatibilité du site.
+- Surveillance et analyse : Utiliser des outils d’analyse pour suivre les performances du site, analyser les données et proposer des améliorations basées sur les résultats.
+**Analyste statisticien @ Oméga-Conseils (_Aout 2023 - Sep 2023 _)**
+- Analyse des données de l’enquête sur le diagnostic des produits agricoles à haute demande et les principaux points de ventes.
+- Compilation, analyse et interprétation des résultats de l’enquêtes.
+- Approfondissement de la compréhension des dynamiques du marché agricol.
+- Collaboration étroite avec l’équipe d’experts d’Oméga-Conseils.
