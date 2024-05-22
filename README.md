@@ -15,7 +15,6 @@
 - Effectuer des tests approfondis pour détecter et résoudre les erreurs, les bogues et les problèmes de compatibilité du site.
 - Surveillance et analyse : Utiliser des outils d’analyse pour suivre les performances du site, analyser les données et proposer des améliorations basées sur les résultats.
 
-- 
 **Analyste statisticien @ Oméga-Conseils (_Aout 2023 - Sep 2023 _)**
 - Analyse des données de l’enquête sur le diagnostic des produits agricoles à haute demande et les principaux points de ventes.
 - Compilation, analyse et interprétation des résultats de l’enquêtes.
