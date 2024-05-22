@@ -71,7 +71,7 @@ Le projet consiste à optimiser un système d'irrigation en utilisant des modèl
 ### Suivi et Analyse de l'Inflation avec une Application Django
 Le projet consiste à créer une application Django capable de calculer les indices des prix à la consommation et de suivre leur évolution, ainsi que l'inflation. Cette application recueille et traite des données sur les prix de divers biens et services, calcule les indices de prix, et fournit des visualisations et des analyses sur les tendances de l'inflation au fil du temps, offrant ainsi un outil précieux pour l'analyse économique et la prise de décision.
 
-**photos**
+![EEG Band Discovery](/assets/img/kk.jpeg)
 
 ### Centralisation et Analyse des Ventes de Boissons avec Talend et Power BI
 Le projet consiste à mettre en place un datawarehouse pour centraliser les données provenant de trois sources différentes concernant la vente de boissons. En utilisant Talend pour les processus d'extraction, transformation et chargement (ETL), les données sont consolidées dans un seul entrepôt de données. Ces données sont ensuite importées dans Power BI, où un tableau de bord interactif est créé pour faciliter la prise de décision stratégique.
