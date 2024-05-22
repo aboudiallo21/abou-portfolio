@@ -82,7 +82,7 @@ Le projet consiste à mettre en place un datawarehouse pour centraliser les donn
 ### Gestion de Ventes de CDs Musicaux avec Mérise
 Dans le cadre d'un projet Mérise à l'École Supérieure Polytechnique, j'ai travaillé sur la création d'un système de gestion des ventes de CDs musicaux. L'objectif était de développer une base de données permettant de gérer efficacement les ventes. J'ai rédigé le cahier des charges et mis en place la base de données en utilisant MySQL avec des requêtes SQL. Les logiciels utilisés pour ce projet étaient Looping et MySQL Workbench.
 
-**photos**
+![EEG Band Discovery](/assets/img/hh.jpeg)
 
 
 ### Analyse des Branches Porteuses de l'Économie Mauritanienne
