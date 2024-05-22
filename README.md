@@ -1,6 +1,6 @@
 # Statistician | Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, PowerBI, Talend, Django, MongoDB, AWS, Kobo collect, 
 
 ## Education
 - Diplome d'ingénieur | École Supérieure Polytechnique (_En cours_)								       		
