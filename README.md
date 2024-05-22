@@ -66,7 +66,7 @@
 ### Optimisation Intelligente de l'Irrigation par Machine Learning
 Le projet consiste à optimiser un système d'irrigation en utilisant des modèles de machine learning pour prendre des décisions basées sur les données collectées par des capteurs. Ces capteurs mesurent des paramètres environnementaux tels que l'humidité du sol et la température, et envoient ces données à un serveur hébergé par une application **Django**. Le modèle de machine learning, déployé sur ce serveur, analyse les données en temps réel et détermine si une irrigation est nécessaire, permettant ainsi une gestion efficace et durable de l'eau pour l'agriculture.
 
-**photos**
+![EEG Band Discovery](/assets/img/ss.jpeg)
 
 ### Suivi et Analyse de l'Inflation avec une Application Django
 Le projet consiste à créer une application Django capable de calculer les indices des prix à la consommation et de suivre leur évolution, ainsi que l'inflation. Cette application recueille et traite des données sur les prix de divers biens et services, calcule les indices de prix, et fournit des visualisations et des analyses sur les tendances de l'inflation au fil du temps, offrant ainsi un outil précieux pour l'analyse économique et la prise de décision.
