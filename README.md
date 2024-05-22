@@ -88,5 +88,5 @@ Dans le cadre d'un projet Mérise à l'École Supérieure Polytechnique, j'ai tr
 ### Analyse des Branches Porteuses de l'Économie Mauritanienne
 Le projet scientifique avait pour objectif d'étudier les branches porteuses de l'économie mauritanienne. J'ai rédigé un rapport scientifique analysant en profondeur ces secteurs, déterminant leur contribution à la richesse nationale et évaluant leur croissance économique. À l'aide de la méthode exponentielle, j'ai effectué des prévisions pour la croissance de chaque branche d'activité. L'analyse des données a été réalisée avec le logiciel EViews, permettant ainsi une compréhension approfondie des tendances économiques et des perspectives de développement du pays.
 
-**photos**
+![EEG Band Discovery](/assets/img/ff.jpeg)
 
