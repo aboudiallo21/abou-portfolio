@@ -20,3 +20,35 @@
 - Compilation, analyse et interprétation des résultats de l’enquêtes.
 - Approfondissement de la compréhension des dynamiques du marché agricol.
 - Collaboration étroite avec l’équipe d’experts d’Oméga-Conseils.
+
+
+**Statisticien-économiste @ JAM Solutions (_Aout 2023 - Sep 2023 _)**
+- Contribution active à une enquête sur les trajectoires d’insertion socioéconomique des jeunes bénéficiant du projet SAFIRE Brakna en Mauritanie.
+- Collecte précise de données sur le terrain.
+- Participation significative à l’analyse exploratoire du projet.
+- Perfectionnement des compétences en recherche.
+- Acquisition d’une compréhension approfondie des enjeux liés à l’insertion des jeunes dans le contexte socioéconomique mauritanien.
+
+
+**Superviseur/ RGPH5-Pilote @ Agence nationale de la statistique et de l’analyse démographique et économique (_Juil 2022 - Aout 2022 _)**
+- Superviseur du Recensement Pilote 5 (RGPH5) à l’Agence Nationale de la Statistique et de l’Analyse Démographique et Économique.
+- Direction de la mise en œuvre du recensement pilote 5 dans la zone de Maghama, région du Gorgol
+- Participation significative à l’analyse exploratoire du projet.
+- Direction et coordination d’une équipe de 21 enquêteurs.
+- Responsabilité de l’envoi régulier des données toutes les 48 heures après la collecte.
+
+
+**Data scientist (stage) @ Banque Centrale de Mauritanie (_Aout 2023 - Sep 2023 _)**
+**Sujet:** modélisation des aggrégats de la masse monétaire
+- Direction de la mise en œuvre du recensement pilote 5 dans la zone de Maghama, région du Gorgol
+- Participation significative à l’analyse exploratoire du projet.
+- Direction et coordination d’une équipe de 21 enquêteurs.
+- Responsabilité de l’envoi régulier des données toutes les 48 heures après la collecte.
+
+
+
+
+
+
+
+
